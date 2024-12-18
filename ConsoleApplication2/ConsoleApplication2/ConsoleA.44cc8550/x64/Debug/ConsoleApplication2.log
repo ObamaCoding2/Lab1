@@ -1,0 +1,7 @@
+﻿  ConsoleApplication2.cpp
+  ListItem.cpp
+  NumberItem.cpp
+  StringItem.cpp
+  Generating Code...
+ConsoleApplication2.obj : error LNK2019: unresolved external symbol "class ListItem __cdecl l(void)" (?l@@YA?AVListItem@@XZ) referenced in function main
+C:\Users\jadaw\source\repos\ConsoleApplication2\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe : fatal error LNK1120: 1 unresolved externals
